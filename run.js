@@ -9,7 +9,7 @@ const {
 const { transferSOL, multiTransferSOL } = require("./scripts/transfer_sol");
 
 const mnemonic =
-  "muffin input music elevator group joy belt popular that magnet tattoo surface";
+  "";
 
 const run = async () => {
   try {
